@@ -16,7 +16,7 @@ from smartapi.version import __version__, __title__
 
 log = logging.getLogger(__name__)
 #user_sys=platform.system()
-#print("the system",user_sys)
+#print("the system",user_sys)ddfssdfsdfsdfsdfsdf
 
 class SmartConnect(object):
     #_rootUrl = "https://openapisuat.angelbroking.com"
